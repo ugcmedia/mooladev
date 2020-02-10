@@ -1,0 +1,72 @@
+/* text-color */
+.text-primary {
+    color: #0053a7 !important;
+}
+.text-secondary{
+  color: #fd8a10 !important;
+}
+.text-muted{
+  color: #333333 !important;
+}
+.secondary-text-light {
+    color: #a9a9a9;
+}
+.b-count{
+  color: #0c755b;
+}
+/* button color */
+.btn-primary {
+    color: #ffffff;
+    background-color: #fd8a10;
+    border-color: #fd8a10;
+}
+.btn-primary:hover, .btn-primary:not(:disabled):not(.disabled):active {
+    color: #ffffff;
+    background-color: #0c755b;
+    border-color: #0c755b;
+}
+.d-lable-text{
+  background-color: #0c755b;
+  color: #ffffff;
+}
+.btn-dark {
+    color: #fff;
+    background-color: #343a40;
+    border-color: #343a40;
+}
+.btn-light {
+    color: #212529;
+    background-color: #eeeeee;
+    border-color: #eeeeee;
+}
+.btn-facebook {
+    background-color: #3a579a;
+    border-color: #3a579a;
+}
+.btn-twitter {
+    background-color: #55acef;
+    border-color: #55acef;
+}
+.btn-google {
+    background-color: #e04b37;
+    border-color: #e04b37;
+}
+.btn-linked-in {
+    background-color: #007ab9;
+    border-color: #007ab9;
+}
+.btn-instagram {
+    background: #e4405f;
+    border-color: #e4405f;
+}
+.rate-star {
+    color: #fd8a10;
+}
+/* background color */
+.bg-dark {
+    background-color: #292929!important;
+}
+
+.bdrs{
+  border-radius: 5px;
+}

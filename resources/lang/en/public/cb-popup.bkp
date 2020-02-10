@@ -1,0 +1,23 @@
+<?php 
+return array( 
+"cb_missing_title"			=> "You're missing out on the extra cashback!",  
+ "cb_join_string"			=> "Join us and get extra <span class='cb-modal promo-text'>:cb_string</span> cashback on this order",  
+ "join_to_active_btn"			=> "JOIN TO ACTIVATE CASHBACK",  
+ "existing_user_sign_btn"			=> "EXISTING USER SIGN IN",  
+ "copy_btn"			=> "COPY",  
+ "continue_loss_btn"			=> "CONTINUE & LOSE CASHBACK",  
+ "visit_merchant_btn"			=> "Visit Merchant",  
+ "share_btn"			=> "Share",  
+ "congrats_txt"			=> "Congratulations!",  
+ "eligible_txt"			=> "You are eligible to <span class='cb-modal promo-text'>:cb_string</span> from :company_name",  
+ "outpage_congras_cashback_txt"			=> "Congratulations! You're on your way to earn <span class='out-cb'>:cb_out_string</span> From :company_name",  
+ "outpage_congras_nocb_txt"			=> "Congratulations! You're on your way to :store_name",  
+ "outpage_desc"			=> "Nothing more to do. Cashback will be automatically added to your :company_name account within a few weeks",  
+ "outpage_loss_txt"			=> "By signing in, you could have earned <span class='out-cb'>:cb_out_string</span> on this transaction",  
+ "out_login_txt"			=> "Login or Join us to earn extra cashback",  
+ "outpage_one_moment"			=> "One Moment... We're redirecting you to :store_name",  
+ "outpage_block_heading"			=> "Help Us Track Your Cashback",  
+ "outpage_taking_too_long_txt"			=> "Taking too long to load? Please",  
+ "join_no_cashback"			=> "JOIN US",  
+ "no_cb_join_string"			=> "Join us for latest offers, discount coupons and real cashback",  
+ );

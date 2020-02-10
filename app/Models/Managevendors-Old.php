@@ -1,0 +1,31 @@
+<?php namespace App\Models;
+
+use Illuminate\Auth\Authenticatable;
+use Illuminate\Database\Eloquent\Model;
+
+class managevendors extends Sximo  {
+	
+	protected $table = 'tb_vendor_account';
+	protected $primaryKey = 'vendor_id';
+
+	public function __construct() {
+		parent::__construct();
+		
+	}
+
+	public static function querySelect(  ){
+		
+		return "  SELECT tb_vendor_account.* FROM tb_vendor_account  ";
+	}	
+
+	public static function queryWhere(  ){
+		
+		return "  WHERE tb_vendor_account.vendor_id IS NOT NULL ";
+	}
+	
+	public static function queryGroup(){
+		return "  ";
+	}
+	
+
+}

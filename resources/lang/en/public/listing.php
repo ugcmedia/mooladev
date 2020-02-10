@@ -1,0 +1,27 @@
+<?php
+return array(
+"total"			=> "Total",
+"merchant" => "Merchant",
+"home"=>"Home",
+"all_stores"=>"All Stores",
+"browse_all_merchants"=>"Browse All Merchants",
+"browse_all_categories"=>"Browse All Categories",
+"browse_all_tags"=>"Browse All Tags",
+"best_All"=>"All",
+'store_categories' => 'Store Category',
+"available"     => ":coupon Coupons | :offer Offers available",
+"store_categories"  =>  "Store Categories",
+"read_more"       => "Read More",
+"subscribe_to"  => "Subscribe :catname",
+"available"     => ":coupon Coupons | :offer Offers available",
+'feature_max_saving_text' => "Featured Merchants for Maximum Savings",
+"browse_all_brands"			=> "Browse All Brands",
+"best_All"		        	=> "All",
+"best_coupon"		       	=> "Coupons",
+"offers_available"			=> "Offers available",
+"coupons"	          		=> "Coupons",
+"total"			            => "Total",
+"brands"			          => "Brands",
+"home"                  => "Home",
+"all_brands"            => "All Brands"
+);

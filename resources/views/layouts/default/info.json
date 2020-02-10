@@ -1,0 +1,17 @@
+{
+	"name"		:"Default Theme",
+	"folder"	:"default",
+	"author"	:"Mango TM",
+	"template"	:{
+					"Homepage"			: "homepage",
+					"Full Page"			: "fullpage",
+					"Contact Form"		: "contact",
+					"Backend Template"	: "backend",
+					"All Brands"		: "allBrands",
+					"All Categories"	: "allCats",
+					"All Stores"		: "allStores",
+					"All Tags"		: "allTags",
+					"Maintenance"		: "maintenance",
+					"How It Works"		: "hiwpage"
+				}
+}

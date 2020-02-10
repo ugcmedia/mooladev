@@ -1,0 +1,33 @@
+{
+	"name"		:"Default Theme",
+	"folder"	:"default",
+	"author"	:"Mango TM",
+	"template"	:{
+					"Homepage"			: "homepage",
+					"Full Page"			: "fullpage",
+					"Contact Form"		: "contact",
+					"Backend Template"	: "backend",
+					"Top Stores"		: "topstores",
+					"Maintenance"		: "maintenance",
+					"How It Works"  : "howitworks",
+					"All Brands"		: "allBrands",
+					"All Store"     :  "allStores",
+					"All Category"  : "allCats",
+					"All Store Category"  : "allStoreCats",
+					"All Tags"		  : "allTags",
+					"Refer and Earn" : "referearn",
+					"Contact Us"     : "contactUs",
+					"Business Listing"     : "business",
+					"Deals of the Deal" :"DOD",
+					"Join Now"        : "joinnow",
+					"Faq"             : "faq",
+					"Store Deals"     : "storedeal",
+					"IP Blocked"     : "blocked",
+					"Site Map"       : "sitemap",
+					"WhatsApp"			 : "WhatsApp",
+					"Nearme"				 : "nearme",
+					"About Us"				 : "aboutus",
+					"Become Partner"				 : "becomepartner"
+
+				}
+}

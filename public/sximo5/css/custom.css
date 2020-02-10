@@ -1,0 +1,109 @@
+
+select[readonly].select2 + .select2-container {
+  pointer-events: none;
+  touch-action: none;
+
+  .select2-selection {
+    background: #eee;
+    box-shadow: none;
+  }
+
+  .select2-selection__arrow,
+  .select2-selection__clear {
+    display: none;
+  }
+}
+
+
+
+/* The switch - the box around the slider */
+.switch-wrap .switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+/* Hide default HTML checkbox */
+.switch-wrap .switch input {display:none;}
+
+/* The slider */
+.switch-wrap .slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.switch-wrap .slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #2196F3;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.switch-wrap .slider.round {
+  border-radius: 34px;
+}
+
+.switch-wrap .slider.round:before {
+  border-radius: 50%;
+}
+
+/*div.dataTables_wrapper div.dataTables_info {display:none !important;}
+.table-footer  {display:none !important}*/
+
+a.adtip {    font-size: 18px;
+    color: black;}
+	
+.btn-fs {color: #fff !important;}
+	
+td .actions	ul.actions-menu {display: flex;}
+td .actions	ul.actions-menu li {margin-right: 5px;}
+
+#sidebar-navigation #sidemenu {overflow-y:scroll !important}
+
+@media (max-width: 480px) 
+	{
+		.navbar-top-links li a {	padding:10px 5px}
+		.minimal-header {background: none;}
+		
+	}
+ul#notification-menu li {line-height: 1 !important;}	
+.notifications-menu .dropdown-menu a.btn-primary:hover {background:#1ab394 !important;color:white !important}
+
+.note-group-select-from-files {display:none !important}
+.note-editor button.note-image-btn {    background-color: #18a689 !important;
+    border-color: #18a689 !important;
+    color: #FFFFFF !important;}
+	
+.colorinputval {width: 50%;
+    height: 50px;
+    padding: 2px;}	
+	
+	#sidebar-navigation .logo img , .bglogin .text-center img {max-width:90%}	

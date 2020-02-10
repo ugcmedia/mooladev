@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>fashion</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7.377009,1 C8.44589883,2.3802111 10.1191847,3.26875 12,3.26875 C13.8808153,3.26875 15.5541012,2.3802111 16.622991,1 L17.43125,1 L23,4.1625 L23,11.24375 L19.0318359,10.69375 L19.642947,23 L4.03693576,23 L4.64804688,10.69375 L1,11.24375 L1,4.1625 L6.56875,1 L7.377009,1 Z" id="path-1"></path>
+    </defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="fashion" transform="translate(-1.000000, -1.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#F6BF16" xlink:href="#path-1"></use>
+            <rect id="Rectangle-3" fill="#FBB216" mask="url(#mask-2)" x="12.0371139" y="-3.03115413" width="11.9612044" height="27.1028446"></rect>
+            <polygon id="Rectangle-2" fill="#FF4E4E" mask="url(#mask-2)" points="19.3268773 11.4335083 22.0393542 28.0894875 0.951681708 28.0894875 4.61097212 11.4335083"></polygon>
+            <rect id="Rectangle-3" fill="#DD1D29" mask="url(#mask-2)" x="12" y="11.3406436" width="12.975" height="13.7093564"></rect>
+            <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+        </g>
+    </g>
+</svg>

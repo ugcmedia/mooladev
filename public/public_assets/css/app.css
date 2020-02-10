@@ -1,0 +1,145 @@
+.ajax-search-results-container{
+  background: #FFFFFF;
+
+}
+.ajax-search-results-container img{
+  max-width: 90px;
+}
+ul.ajax-search-results.list-unstyled {
+    padding: 0;
+    border-bottom: 1px solid #000;
+    margin: 0;
+}
+ul li.ajax-search-results.list-unstyled {
+    padding: 5px;
+    margin-top: 5px;
+}
+.store-list-tag-category {
+  padding: 0;
+
+}
+ul.searchsUl {
+    background: white;
+    margin: 0 auto;
+    padding: 5px;
+    margin-top: 50px;
+    margin-left: 288px;
+    width: 100%;
+    box-shadow: 0px 2px 1px 1px;
+    z-index: 999999;
+}
+ul.searchsUl2 {
+    background: white;
+    margin: 0 auto;
+    padding: 5px;
+    margin-left: 288px;
+    width: 100%;
+    box-shadow: 0px 2px 1px 1px;
+    z-index: 999999;
+}
+img.align-self-center.mr-2.searchLogo {
+    width: 100px;
+}
+
+.title-disc {
+    height: 48px;
+    overflow: hidden;
+    max-width: 85%;
+    float: left;
+/*  line-height: 1.3;
+*/    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    color: white ;
+}
+.title-disc-full {
+    height: auto;
+    max-width: 85%;
+    float: left;
+/*   line-height: 1.3;
+*/    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    color: white ;
+}
+.disc-collapsed {
+    padding: 5px 10px;
+    float: right;
+    border: 1px solid white;
+    border-radius: 4px;
+    color: white !important;
+
+
+}
+.scrollingBox {
+
+  /*  z-index: 1 !important;*/
+}
+
+/*.join-us-login-card {
+    width: 50%;
+    top: -188px;
+    height: 767px;
+
+}*/
+.img-bg-404 {
+     background-image: url(../images/404-newdribbble.gif);
+     height: 100%;
+     background-repeat: no-repeat;
+     background-size: contain;
+     background-position: center;
+     margin: 0;
+     padding: 0;
+}
+.title-h3 {
+  font-size: 1.75rem !important;
+}
+.brandcolor1{
+    color: #487BD7;
+}
+.brandcolor2{
+    color: #FF465A;
+}
+.brandcolor3{
+    color: #239995;
+}
+.brandcolor4{
+    color: #432CB3;
+}
+.brandcolor5{
+    color: #F09D1E;
+}
+.brandcolor6{
+    color: #262335;
+}
+.refer-box {
+      background-color: rgb(249, 90, 74);
+  height: 271px;
+}
+.hp_percent {
+  font-size: 32px;
+  font-weight: bold;
+  color: #ffeec8;
+}
+.withdraw_hp_box {
+  height: 271px;
+}
+.learn-more-hp-btn .btn-primary{
+    background: #FFFFFF;
+    color: black;
+    border-color: #FFFFFF;
+    font-weight: bold;
+}
+@media(max-width: 768px){
+    .title-disc{
+        max-width: 80%;
+    }
+    .title-disc-full{
+        max-width: 80%;
+    }
+    .title-disc{
+            height: 28px;
+    }
+    a.disc-collapsed{
+            padding: 0px 7px;
+                font-size: 12px;
+    }
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="20px" viewBox="0 0 24 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>electronics</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="electronics" transform="translate(0.000000, -2.000000)">
+            <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+            <g id="icon" transform="translate(0.000000, 2.666667)" fill-rule="nonzero">
+                <path d="M22.9024668,1.18497958 L22.9024668,14.0903226 L1.00241122,14.0903226 L1.00241122,1.18497958 C1.00241122,0.555417196 1.60959512,0.0433548387 2.35861463,0.0433548387 L21.5462634,0.0433548387 C22.2952829,0.0433548387 22.9024668,0.554959998 22.9024668,1.18497958 Z" id="Shape" fill="#286FDC"></path>
+                <polygon id="Shape" fill="#FFFFFF" points="2.8993961 1.93633548 21.0049507 1.93633548 21.0049507 11.9285 2.8993961 11.9285"></polygon>
+                <polygon id="Shape" fill="#EFEFEF" points="21.005482 2.14245405 21.005482 11.7967193 11.952439 11.7967193 11.9996986 11.6833921 11.9996986 2.14245405"></polygon>
+                <path d="M0,15.716129 L0,16.9127226 C0,17.7949935 0.716615122,18.5098065 1.60056439,18.5098065 L22.3043137,18.5098065 C23.1877317,18.5098065 23.904878,17.7944516 23.904878,16.9127226 L23.904878,15.716129 L0,15.716129 Z" id="Shape" fill="#0F56C3"></path>
+            </g>
+        </g>
+    </g>
+</svg>
